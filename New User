@@ -1,0 +1,50 @@
+User registration mattsterp.com
+User registration welcome messaging and email confirmations. 
+Welcome Email:
+Greetings USERNAME!
+
+Welcome to SITE_NAME and thank you for registering a new site with me.  Your site has been successfully created, which you can access here: BLOG_URL
+
+As the site administrator you can edit the settings and add new content and users to your site.  To log in please use these credentials:
+
+Username: USERNAME
+Password: PASSWORD
+Log in here: BLOG_URLwp-login.php
+
+Once you’ve logged in you'll see guidance on managing your site and creating content, and you can always get help via the Help tab at the top of the admin screens. 
+
+We hope you enjoy your new site. 
+
+Cheers,
+Matthew Peters @ SITE_NAME
+
+
+
+Welcome User Email:
+Welcome to SITE_NAME and thank you for registering with us.  We have successfully created your new user account. 
+
+To log in please use these credentials. 
+
+Username: USERNAME
+Password: PASSWORD
+Log in here: LOGINLINK
+
+Once you’ve logged in you’ll see guidance on creating content, and you can always get help via the Help tab on the top of the admin pages.
+
+I hope you enjoy your new site
+
+Cheers,
+Matthew Peters @ SITE_NAME
+
+
+First Post:
+Welcome to %s.This is a post.  Posts are designed for news items, blog posts, or anything else you want to list in your main blog page.  By default, all you posts will show up on your site's home page.  If you want to use a static page as your home page and have a separate page (called “Blog” for example) you can change this. 
+
+
+First Page:
+This is a page.  Pages are designed for static content, such as an “About us” or “Contact us” page, or for many sites the “Home” page.  Pages are different than posts in that they don’t show up in your main blog posts page.
+
+First Comment:
+This is a comment.  You can turn comments on or off for your site , or for individual posts. You can also specify whether you will let anyone comment, or if you want to moderate comments.  To do this go to Settings -> Discussion in your admin screens.
+
+
